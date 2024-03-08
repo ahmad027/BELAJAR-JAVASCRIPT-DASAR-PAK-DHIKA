@@ -1,0 +1,7 @@
+#1 - Intro javascript 
+
+pemograman mengajarkan kita untuk 
+    - belajar teliti, disiplin dan berfikir abstrak 
+    - mengubah komputer menjadi alat yang powerfull 
+    - membentuk pola pikir komputasional 
+
