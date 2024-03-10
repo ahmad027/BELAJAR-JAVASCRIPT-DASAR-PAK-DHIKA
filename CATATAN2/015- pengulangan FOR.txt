@@ -1,0 +1,13 @@
+# Pengulangan FOR
+
+penulisan FOR 
+
+    for (nilai awal ; kondisi terminasi; increment atau decrement;) {
+        Aksi
+    }
+
+    contoh 
+
+    for (nilaiAwal = 1; nilaiAwal <= 10; nilaiAwal++) {
+        console.log('Hallo Ahmad');
+    }

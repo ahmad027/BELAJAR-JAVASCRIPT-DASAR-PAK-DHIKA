@@ -1,0 +1,21 @@
+#Pengulangan WHILE 
+
+
+penulisan standartnya 
+
+    nilai awal 
+
+    while(kondisi terminasi) {
+        aksi
+
+        increment / decrement 
+    }
+
+    contoh : 
+
+    let nilaiAwal = 1; -> nilai awal
+        while (nilaiAwal <= 5) { -> kondisi terminasi
+        console.log('Hello World!!!'); -> aksi 
+        nilaiAwal++; -> increment
+    }
+

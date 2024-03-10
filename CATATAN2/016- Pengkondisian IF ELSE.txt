@@ -1,0 +1,8 @@
+# Pengkondisian IF ELSE 
+
+Penulisan pengkondisian IF ELSE 
+
+    if(KONDISI) {
+        AKSI  -> LAKUKAN AKSI JIKA KONDISI BERNILAI TRUE
+    }
+    .... -> keluar dari blok jika kondisi bernilai false 
