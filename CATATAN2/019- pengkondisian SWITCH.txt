@@ -1,0 +1,24 @@
+# pengkondisian SWITCH 
+
+penulisannya 
+
+    switch(ekspresi) {
+        case "nilai 1":
+        aksi 1
+        [break;]
+
+        case "nilai 2":
+        aksi 2
+        [break;]
+
+        case "nilai n":
+        aksi n
+        [break;]
+
+       default:
+        aksi default
+        [break;]
+
+    }
+
+    kalau tidak menulis break, maka program akan melanjutkan code di bawahnya, kalau tulis break, maka programnya langsung berhenti. 
